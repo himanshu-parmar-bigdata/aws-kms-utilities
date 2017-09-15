@@ -27,6 +27,8 @@ encrypt data and decrypt the data key.
 
 1) Clone this repository local on your machine.
 
+2) Please replace KMS_MASTER_KEY variable in KmsUtilities class to AWS KMS Master key accessible from your AWS account.
+
 2) Follow Prerequisites as above.
 
 3) Use maven to build and run the unit tests.
